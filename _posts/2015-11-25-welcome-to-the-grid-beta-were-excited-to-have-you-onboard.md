@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-11-25T17:07:11.635Z'
-dateModified: '2015-11-25T16:59:50.347Z'
+datePublished: '2015-11-25T17:07:14.589Z'
+dateModified: '2015-11-25T17:07:11.635Z'
 title: 'Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. '
 author: []
 authors: []
