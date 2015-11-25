@@ -1,7 +1,7 @@
 name: Gracious Studios
 favicon: null
-layout_spectrum: 0.07543621817603707
-typography_spectrum: 0.29588985396549106
+layout_spectrum: 0.97717
+typography_spectrum: 0.66583
 title: Gracious Studios
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.607902584830299
+    - '#72b443'
+    - '#f4feeb'
+    - '#98b878'
+    - '#a5d37d'
+    - '#c8eda7'
+  brandStrength: 0.5625
   lightness: 0.36716778902336955
   saturation: 0.2122746491804719
   rhythmicContrast: 0.7513136053457856
